@@ -1,20 +1,14 @@
 ---
 type: header
 logo:
-  src: ../assets/logo.svg
-  alt: logo de foudroyer
-tabs:
-  - type: follow
-    theme: link
-    label: Tutoriels
-    url: /tutoriels
-    rel: follow
-    target: self
+  src: ../assets/agence_abbas.png
+  alt: Logo de l'agence Abbas
+tabs: []
 right:
   - type: follow
     theme: button
-    label: Créer un site gratuitement
-    url: /tutoriels/creer-son-premier-site/
+    label: Demander un devis
+    url: /devis
     rel: follow
     target: self
 ---
