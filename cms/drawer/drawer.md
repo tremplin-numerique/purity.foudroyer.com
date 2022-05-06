@@ -7,7 +7,7 @@ tabs:
   - type: follow
     label: Politique de confidentialité
     url: /politique
-    rel: follow
+    rel: obfuscated
     target: self
 actions:
   - type: follow
