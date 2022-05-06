@@ -1,10 +1,12 @@
 {
-  "title": "Cookies Policy",
-  "description": "We use third-party cookies in order to personalise your experience.",
+  "title": "Cookies",
+  "description": "Nous utilisons des cookies pour améliorer votre expérience.",
   "to": {
-    "label": "Read our cookie policy",
-    "url": "/policy",
-    "type": "follow"
+    "label": "Politique de confidentialité",
+    "url": "/politique-de-confidentialite/",
+    "type": "follow",
+    "target": "self",
+    "rel": "obfuscated"
   },
-  "button": "Accept"
+  "button": "Accepter"
 }
