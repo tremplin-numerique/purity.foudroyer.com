@@ -8,7 +8,7 @@ right:
   - type: follow
     theme: button
     label: Demander un devis
-    url: /devis
+    url: /#
     rel: follow
     target: self
 ---
