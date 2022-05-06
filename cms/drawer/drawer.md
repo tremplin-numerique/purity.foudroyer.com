@@ -13,7 +13,7 @@ actions:
   - type: follow
     theme: primary
     label: Demander un devis
-    url: /devis
+    url: /#
     rel: follow
     target: self
 ---
