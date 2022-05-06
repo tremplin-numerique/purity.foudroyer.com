@@ -1,12 +1,3 @@
 {
-  "rules": [
-    {
-      "userAgent": "*",
-      "disallow": [
-        {
-          "rule": "*.js"
-        }
-      ]
-    }
-  ]
+  "rules": []
 }
