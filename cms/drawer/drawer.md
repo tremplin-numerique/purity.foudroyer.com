@@ -1,14 +1,9 @@
 ---
 type: drawer
 logo:
-  src: ../assets/logo.svg
-  alt: logo
+  src: ../assets/agence_abbas.png
+  alt: Logo de l'agence Abbas
 tabs:
-  - type: follow
-    label: Tutoriels
-    url: /tutoriels/
-    rel: follow
-    target: self
   - type: follow
     label: Politique de confidentialité
     url: /politique
@@ -17,14 +12,8 @@ tabs:
 actions:
   - type: follow
     theme: primary
-    label: Créer un site gratuitement
-    url: /tutoriels/creer-son-premier-site/
+    label: Demander un devis
+    url: /devis
     rel: follow
     target: self
-  - type: follow
-    theme: secondary
-    label: Se rendre sur Foudroyer
-    url: https://dashboard.foudroyer.com
-    rel: follow
-    target: blank
 ---
